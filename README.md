@@ -28,6 +28,9 @@ The three candidates' total votes and percentages:
 The winner based on popular vote: 
 Diana DeGette = 272,892 / 73.8%
 
+<img width="300" alt="Screen Shot 2022-08-04 at 9 32 21 AM" src="https://user-images.githubusercontent.com/106892740/182903563-e5b44d27-93f6-425c-9077-412305e69f94.png">
+
+
 ## Election Audit Summary 
 
 The audit determines that certain counties had a larger turnout than others. What makes this number more concerning is the high number of turnouts compared to other counties, such as Denver and Arapahoe. There are two additional ways the Board of Elections can modify its election process? 
